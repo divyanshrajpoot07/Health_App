@@ -1,4 +1,4 @@
-# Sunita's Health Companion - A React App for Elderly Care
+# Divyansh's Health Companion - A React App for Elderly Care
 
 ## Introduction
 
